@@ -1,0 +1,6 @@
+2019-11-29 16:34:00			- /js/player.js?1.0.0:36578:35	"TypeError: undefined is not an object (evaluating 'this.part.type')"
+	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15
+
+2019-11-29 16:34:15			- /:0:0	"ResizeObserver loop limit exceeded"
+	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
