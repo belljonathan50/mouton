@@ -35,6 +35,6 @@
     "watch": "^1.0.1"
   },  
     "engines": {
-    "node": "14.x"
+    "node": "8.x"
   }
 }
